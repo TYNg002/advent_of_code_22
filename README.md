@@ -5,7 +5,7 @@ Advent of Code include 25 days of problems, with 2 problems available for each d
 
 I've written my solutions in Python. 
 
-## File namiing convention
+## File naming convention
 
 Files are named as follows:
 - First two digits indicate the year of Advent of Code
